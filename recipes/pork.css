@@ -1,0 +1,21 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+body {
+    background-color: rgb(250, 219, 162);
+}
+
+.head2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(133, 68, 133);
+}
+
+.list {
+    color: rgb(201, 93, 17);
+}
+
+.steps {
+    color: olive;
+}

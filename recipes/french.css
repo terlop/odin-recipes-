@@ -1,0 +1,26 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+body {
+    background-color: rgb(238, 238, 140);
+}
+
+.head2 {
+    color: red;
+}
+
+#heard {
+    background-color: greenyellow;
+    width: 500px;
+}
+
+.steps {
+    color: plum;
+    font-family: Verdana, Geneva, Tahoma, sans-serif sans-serif;
+}
+
+.list {
+    color: red;
+}
